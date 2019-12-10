@@ -1,0 +1,46 @@
++ ---------------------------- +
++    INSERIR NOVO SWITCH       +
++ ---------------------------- +
+
++ ------------------------------------- +
++       NOME DO PREDIO: CPPG            +
++ ------------------------------------- +
+| ANDAR | SALA | SWITCH | PORTA | PONTO |
++ ------------------------------------- +
+
+
++ ------------------------------------------ +
++           CONTROLE DE PONTOS               +
++ ------------------------------------------ +
+
+Bem vindo ao contole de pontos, para iniciar
+o uso deve-se antes cadastrar pelo menos um
+ponto.
+
+Acesse os relatórios para obter as informações triviais.
+
+Para sair basta digitar (Sair) e pressionar [ENTER].
+
++ ------------------------------------------ +
++   1. Cadastrar pontos                      +
++   2. Resumo de pontos                      +
++   3. Relação de pontos ativos em um prédio +
++   3. Relação geral de pontos               +
++ ------------------------------------------ +
+
+Opções:
+
+
+
++ ------------------------------------------ +
++        Relatório de Pontos ativos          +
++ ------------------------------------------ +
+
++ -------------------------------------- +
+| NUMERO | ANDAR | SALA | SWITCH | PORTA |
++ -------------------------------------- +
+
+
++ ------------------------------------------ +
++         Relação Geral de Pontos            +
++ ------------------------------------------ +
