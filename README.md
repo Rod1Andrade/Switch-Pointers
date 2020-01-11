@@ -4,8 +4,8 @@ Trabalho final da disciplina de Lógica de Programação
 > Implementação de um problema proposto pelo Professor da Disciplina de Lógica de programação.
 
 O trabalho consiste em criar uma forma de cadastro de pontos e portas de um switch afim de manter
-o controle de quantos pontos estão ativos e diferentes prédios, o trabalho é apenas abstrato, nada
-de mapeamento pela rede ou conceitos maias complexos, mas sim definido como forma de treinar
+o controle de quantos pontos estão ativos em diferentes prédios, o trabalho é apenas abstrato, nada
+de mapeamento pela rede ou conceitos mais complexos, mas sim definido como forma de treinar
 a parte de manipulação de arquivos utilizando a linguagem C.
 
 ## Modulos:
